@@ -1,5 +1,5 @@
 {
-  "devDependencies": {
+  "dependencies": {
     "yarn": "1.22.16"
   }
 }
